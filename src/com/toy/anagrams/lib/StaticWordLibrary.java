@@ -41,8 +41,8 @@ final class StaticWordLibrary extends WordLibrary {
 
     private static final String[] WORD_LIST = {
         "examen",
-        "contornos",
         "vigo",
+        "contornos",
         "abstraction",
         "ambiguous",
         "arithmetic",
@@ -87,8 +87,8 @@ final class StaticWordLibrary extends WordLibrary {
 
     private static final String[] SCRAMBLED_WORD_LIST = {
         "enamex",
-        "cnotsorno",
         "iogv",
+        "cnotsorno",
         "batsartcoin",
         "maibuguos",
         "ratimhteci",
